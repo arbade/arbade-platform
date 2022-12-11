@@ -1,5 +1,5 @@
 terraform {
-  source = "git::git@github.com:arbade/arbade-iac-platform.git//terraform-aws-vpc"
+  source = "git::git@github.com:arbade/arbade-iac-platform.git//platform-aws-vpc"
   #source = "git::git@github.com:arbade/arbade-iac-platform.git//terraform-aws-vpc?ref=vpc-fix"
 }
 
